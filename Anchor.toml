@@ -8,7 +8,7 @@ skip-lint = false
 anchor_version = "0.31.1"
 
 [programs.localnet]
-pixel_chain_anchor = "HZMxjQynSqiu4uAydbNwXy8uMkYtMa2FV1i6UpvDuDY8"
+pixel_chain_anchor = "FgBCXGMCMYimooD9cdHuasz6kczQP9jEXpfJYnH3GMfN"
 
 [registry]
 url = "https://api.apr.dev"
